@@ -86,10 +86,10 @@
 
 <div style="display: flex; gap: 0.5rem; flex-wrap: nowrap; align-items: flex-start;">
   <a href="https://github.com/husein-loubani" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=husein-loubani&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=husein-loubani&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" height="150" />
   </a>
   <a href="https://github.com/husein-loubani" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husein-loubani&layout=compact&theme=tokyonight" alt="Top Languages" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husein-loubani&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
   </a>
 </div>
 
