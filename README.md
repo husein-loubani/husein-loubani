@@ -1,17 +1,22 @@
-## 👋 Hi, I'm Hussein
+<h1 align="center"><a href="https://peterhan.dev">Hi, I'm Hussein 👋</a></h1>
 
-**🧠 PhD Researcher | 🤖 AI + 3D Reconstruction + Simulation**  
+**🧠 PhD Researcher | 🤖 AI & Computer Vision | Robotics | Autonomous Driving**  
 🔬 CIAD Lab @ UTBM – France  
-🌐 [Website](https://hussein-loubani.github.io) | 📫 [Email Me](mailto:hussein_lobs@outlook.com)
 
----
-
-### 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussein-loubani/)
-[![Website](https://img.shields.io/badge/Website-000?logo=vercel&logoColor=white)](https://husein-loubani.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hussein_lobs@outlook.com)
-[![Scholar](https://img.shields.io/badge/Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/)
+<p align="left">
+  <a href="https://github.com/hussein-loubani" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hussein-loubani/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@hussein-loubani" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="mailto:hussein_lobs@outlook.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
