@@ -23,11 +23,11 @@
 <p>
   <a href="https://github.com/husein-loubani" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hussein-loubani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@hussein-loubani" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://medium.com/@hussein_lobs" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="mailto:hussein_lobs@outlook.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://scholar.google.com/citations?user=YOUR_ID_HERE" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-4285F4.svg?&style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=xvFTA5UAAAAJ&hl=en" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-4285F4.svg?&style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
   <a href="https://husein-loubani.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://hal.science/search/index/?q=hussein+loubani" target="_blank"><img alt="HAL" src="https://img.shields.io/badge/HAL-003A63.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjQwIiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9IiMwMDNhNjMiIHN0cm9rZS13aWR0aD0iMTUiLz48L3N2Zz4=" /></a>
+  <a href="https://hal.science/user/index" target="_blank"><img alt="HAL" src="https://img.shields.io/badge/HAL-003A63.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjQwIiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9IiMwMDNhNjMiIHN0cm9rZS13aWR0aD0iMTUiLz48L3N2Zz4=" /></a>
   <a href="https://drive.google.com/file/d/1wuHkYWU0o-4GvJ_LlB6CL9WyrrTLahAN/view?usp=sharing" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-4CAF50.svg?&style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
 </p>
 
